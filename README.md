@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Test Engineer with 3+ years of experience in Banking and Capital Markets domain.
+I am a Software Test Engineer with 3+ years of experience in Capital Markets & Internet Banking domain.
 
 I specialize in:
 
@@ -101,9 +101,8 @@ Currently exploring:
 ## 📫 Contact
 
 📍 India  
-📧 prateek.shinde12@gmail.com  
-🔗 LinkedIn: (Add your actual LinkedIn link here)
-
+📧 prateekshinde18@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/prateek-shinde-3120413a9/
 ---
 
 ⭐ “Quality is never an accident; it is always the result of intelligent effort.”
